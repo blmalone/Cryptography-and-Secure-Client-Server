@@ -1,6 +1,3 @@
-package com.CSC3048.EncryptionAlgorithms.SDES;
-
-import com.CSC3048.EncryptionAlgorithms.ISymmetricEncryptionAlgorithm;
 import java.util.Arrays;
 import java.util.Random;
 
